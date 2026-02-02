@@ -1,0 +1,24 @@
+{
+  "name": "backend_box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc-watch --onSuccess \"node dist/main.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asliddin2425/portfolio_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/asliddin2425/portfolio_backend/issues"
+  },
+  "homepage": "https://github.com/asliddin2425/portfolio_backend#readme",
+  "devDependencies": {
+    "tsc-watch": "^7.2.0"
+  }
+}
